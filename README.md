@@ -1,2 +1,3 @@
 # calculator
-ini apk calculator untuk menghitung matetematika sederhana
+ini apk calculator cvg untuk menghitung matetematika sederhana
+created by kia
